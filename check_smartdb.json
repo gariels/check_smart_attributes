@@ -2698,7 +2698,7 @@
 			"Perfs" : ["3","9","12","194"]
 		},
 		"Seagate Nytro 1551" : {
-			"Device" : ["XA1920ME10063", "XA1920LE10063"],
+			"Device" : ["XA3840ME10063", "XA1920ME10063", "XA1920ME10083", "XA1920ME10103", "XA960ME10063", "XA960ME10083", "XA960ME10103", "XA480ME10063", "XA480ME10083", "XA480ME10103", "XA240ME10003"],
 			"ID#" : {
 				"1" : {"value": "VALUE", "comment": "Raw Read Error Rate"},
 				"5" : {"value": "RAW_VALUE", "comment": "Re-allocated Sector Count"},
